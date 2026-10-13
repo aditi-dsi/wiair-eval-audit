@@ -1,0 +1,400 @@
+{"id": "q0001", "subset": "single_step", "question": "A warehouse has 8167 boxes. Mei ships 194 of them. How many boxes are left?", "gold_answer": 7973}
+{"id": "q0002", "subset": "multi_step", "question": "Mei runs 5 km on each weekday and 15 km on each weekend day. How many km does she run in 5 weeks?", "gold_answer": 275}
+{"id": "q0003", "subset": "multi_step", "question": "Hana earns $47 per hour. She works 4 hours a day for 9 days and spends $103. How much money does she have left?", "gold_answer": 1589}
+{"id": "q0004", "subset": "single_step", "question": "Ana reads 47 pages every day. How many pages does she read in 11 days?", "gold_answer": 517}
+{"id": "q0005", "subset": "multi_step", "question": "Lucia earns $40 per hour. She works 9 hours a day for 24 days and spends $3024. How much money does she have left?", "gold_answer": 5616}
+{"id": "q0006", "subset": "single_step", "question": "Amara reads 60 pages every day. How many pages does she read in 76 days?", "gold_answer": 4560}
+{"id": "q0007", "subset": "single_step", "question": "A farm harvests 2319 kg of rice in the morning and 4689 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 7008}
+{"id": "q0008", "subset": "single_step", "question": "A printer at Maya's office prints 32 pages per minute. How many pages does it print in 19 minutes?", "gold_answer": 608}
+{"id": "q0009", "subset": "multi_step", "question": "Maya earns $55 per hour. She works 8 hours a day for 27 days and spends $2689. How much money does she have left?", "gold_answer": 9191}
+{"id": "q0010", "subset": "multi_step", "question": "Noor runs 4 km on each weekday and 12 km on each weekend day. How many km does she run in 2 weeks?", "gold_answer": 88}
+{"id": "q0011", "subset": "single_step", "question": "A farm harvests 771 kg of rice in the morning and 7259 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 8030}
+{"id": "q0012", "subset": "multi_step", "question": "A library has 4853 books. Zara orders 22 boxes of 23 books each for it, then the library donates 530 books. How many books does it have now?", "gold_answer": 4829}
+{"id": "q0013", "subset": "multi_step", "question": "Rosa buys 11 notebooks at $8 each and 7 pens at $1 each. She pays with $100. How much change does she get?", "gold_answer": 5}
+{"id": "q0014", "subset": "multi_step", "question": "Noor runs 8 km on each weekday and 17 km on each weekend day. How many km does she run in 2 weeks?", "gold_answer": 148}
+{"id": "q0015", "subset": "single_step", "question": "A printer at Fatima's office prints 81 pages per minute. How many pages does it print in 73 minutes?", "gold_answer": 5913}
+{"id": "q0016", "subset": "multi_step", "question": "Hana runs 3 km on each weekday and 6 km on each weekend day. How many km does she run in 3 weeks?", "gold_answer": 81}
+{"id": "q0017", "subset": "multi_step", "question": "A library has 6249 books. Aisha orders 20 boxes of 19 books each for it, then the library donates 437 books. How many books does it have now?", "gold_answer": 6192}
+{"id": "q0018", "subset": "single_step", "question": "Leila saves $123 each week. How much has she saved after 13 weeks?", "gold_answer": 1599}
+{"id": "q0019", "subset": "multi_step", "question": "A tank at Priya's farm holds 832 liters. It is filled at 28 liters per minute but leaks 2 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 32}
+{"id": "q0020", "subset": "single_step", "question": "Lucia saves $168 each week. How much has she saved after 27 weeks?", "gold_answer": 4536}
+{"id": "q0021", "subset": "single_step", "question": "Aisha saves $237 each week. How much has she saved after 43 weeks?", "gold_answer": 10191}
+{"id": "q0022", "subset": "multi_step", "question": "Selin's cafe sells 265 coffees at $6 each and 43 teas at $2 each per day. What is its revenue over 6 days?", "gold_answer": 10056}
+{"id": "q0023", "subset": "multi_step", "question": "A tank at Fatima's farm holds 1960 liters. It is filled at 37 liters per minute but leaks 2 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 56}
+{"id": "q0024", "subset": "single_step", "question": "Grace reads 39 pages every day. How many pages does she read in 18 days?", "gold_answer": 702}
+{"id": "q0025", "subset": "single_step", "question": "A farm harvests 8255 kg of rice in the morning and 7945 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 16200}
+{"id": "q0026", "subset": "multi_step", "question": "A library has 1496 books. Selin orders 22 boxes of 26 books each for it, then the library donates 395 books. How many books does it have now?", "gold_answer": 1673}
+{"id": "q0027", "subset": "single_step", "question": "A farm harvests 5414 kg of rice in the morning and 3378 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 8792}
+{"id": "q0028", "subset": "single_step", "question": "A farm harvests 8360 kg of rice in the morning and 2509 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 10869}
+{"id": "q0029", "subset": "multi_step", "question": "Leila buys 6 notebooks at $9 each and 14 pens at $4 each. She pays with $200. How much change does she get?", "gold_answer": 90}
+{"id": "q0030", "subset": "multi_step", "question": "A tank at Selin's farm holds 2622 liters. It is filled at 40 liters per minute but leaks 2 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 69}
+{"id": "q0031", "subset": "single_step", "question": "A farm harvests 5362 kg of rice in the morning and 705 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 6067}
+{"id": "q0032", "subset": "single_step", "question": "A warehouse has 14634 boxes. Ivy ships 3147 of them. How many boxes are left?", "gold_answer": 11487}
+{"id": "q0033", "subset": "single_step", "question": "A printer at Ana's office prints 45 pages per minute. How many pages does it print in 90 minutes?", "gold_answer": 4050}
+{"id": "q0034", "subset": "single_step", "question": "A school splits 760 students evenly into 19 buses. How many students ride on each bus?", "gold_answer": 11}
+{"id": "q0035", "subset": "multi_step", "question": "A library has 5810 books. Mei orders 14 boxes of 35 books each for it, then the library donates 272 books. How many books does it have now?", "gold_answer": 6028}
+{"id": "q0036", "subset": "single_step", "question": "A warehouse has 5101 boxes. Leila ships 2569 of them. How many boxes are left?", "gold_answer": 2532}
+{"id": "q0037", "subset": "single_step", "question": "Amara saves $128 each week. How much has she saved after 47 weeks?", "gold_answer": 6016}
+{"id": "q0038", "subset": "single_step", "question": "Hana reads 12 pages every day. How many pages does she read in 52 days?", "gold_answer": 624}
+{"id": "q0039", "subset": "single_step", "question": "Hana reads 18 pages every day. How many pages does she read in 16 days?", "gold_answer": 288}
+{"id": "q0040", "subset": "single_step", "question": "A printer at Rosa's office prints 48 pages per minute. How many pages does it print in 136 minutes?", "gold_answer": 6528}
+{"id": "q0041", "subset": "multi_step", "question": "Hana runs 5 km on each weekday and 18 km on each weekend day. How many km does she run in 10 weeks?", "gold_answer": 610}
+{"id": "q0042", "subset": "multi_step", "question": "Elena buys 8 notebooks at $4 each and 11 pens at $3 each. She pays with $200. How much change does she get?", "gold_answer": 135}
+{"id": "q0043", "subset": "multi_step", "question": "A library has 4819 books. Lucia orders 18 boxes of 11 books each for it, then the library donates 509 books. How many books does it have now?", "gold_answer": 4508}
+{"id": "q0044", "subset": "single_step", "question": "Leila reads 14 pages every day. How many pages does she read in 32 days?", "gold_answer": 448}
+{"id": "q0045", "subset": "multi_step", "question": "A tank at Elena's farm holds 207 liters. It is filled at 12 liters per minute but leaks 3 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 23}
+{"id": "q0046", "subset": "single_step", "question": "A warehouse has 10165 boxes. Grace ships 2897 of them. How many boxes are left?", "gold_answer": 7268}
+{"id": "q0047", "subset": "multi_step", "question": "A library has 3074 books. Lucia orders 8 boxes of 11 books each for it, then the library donates 425 books. How many books does it have now?", "gold_answer": 2737}
+{"id": "q0048", "subset": "single_step", "question": "Aisha reads 36 pages every day. How many pages does she read in 8 days?", "gold_answer": 288}
+{"id": "q0049", "subset": "multi_step", "question": "Ana earns $36 per hour. She works 8 hours a day for 16 days and spends $2098. How much money does she have left?", "gold_answer": 2510}
+{"id": "q0050", "subset": "multi_step", "question": "Leila buys 3 notebooks at $9 each and 12 pens at $4 each. She pays with $200. How much change does she get?", "gold_answer": 125}
+{"id": "q0051", "subset": "multi_step", "question": "Ana's cafe sells 278 coffees at $3 each and 25 teas at $4 each per day. What is its revenue over 7 days?", "gold_answer": 6538}
+{"id": "q0052", "subset": "single_step", "question": "Priya reads 19 pages every day. How many pages does she read in 72 days?", "gold_answer": 1368}
+{"id": "q0053", "subset": "multi_step", "question": "Ana runs 4 km on each weekday and 13 km on each weekend day. How many km does she run in 7 weeks?", "gold_answer": 322}
+{"id": "q0054", "subset": "single_step", "question": "A school splits 1537 students evenly into 29 buses. How many students ride on each bus?", "gold_answer": 53}
+{"id": "q0055", "subset": "multi_step", "question": "Fatima earns $30 per hour. She works 5 hours a day for 21 days and spends $1385. How much money does she have left?", "gold_answer": 1765}
+{"id": "q0056", "subset": "multi_step", "question": "Hana runs 8 km on each weekday and 8 km on each weekend day. How many km does she run in 2 weeks?", "gold_answer": 112}
+{"id": "q0057", "subset": "single_step", "question": "A warehouse has 12713 boxes. Noor ships 2104 of them. How many boxes are left?", "gold_answer": 10609}
+{"id": "q0058", "subset": "multi_step", "question": "A tank at Mei's farm holds 1134 liters. It is filled at 28 liters per minute but leaks 14 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 81}
+{"id": "q0059", "subset": "single_step", "question": "A printer at Aisha's office prints 49 pages per minute. How many pages does it print in 16 minutes?", "gold_answer": 784}
+{"id": "q0060", "subset": "multi_step", "question": "Leila's cafe sells 96 coffees at $3 each and 126 teas at $3 each per day. What is its revenue over 3 days?", "gold_answer": 1998}
+{"id": "q0061", "subset": "single_step", "question": "A warehouse has 11578 boxes. Amara ships 286 of them. How many boxes are left?", "gold_answer": 11292}
+{"id": "q0062", "subset": "single_step", "question": "Ines reads 50 pages every day. How many pages does she read in 34 days?", "gold_answer": 1700}
+{"id": "q0063", "subset": "multi_step", "question": "Sofia buys 5 notebooks at $4 each and 10 pens at $2 each. She pays with $200. How much change does she get?", "gold_answer": 40}
+{"id": "q0064", "subset": "multi_step", "question": "A tank at Aisha's farm holds 816 liters. It is filled at 20 liters per minute but leaks 8 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 68}
+{"id": "q0065", "subset": "single_step", "question": "Grace saves $76 each week. How much has she saved after 37 weeks?", "gold_answer": 2812}
+{"id": "q0066", "subset": "single_step", "question": "A school splits 1290 students evenly into 30 buses. How many students ride on each bus?", "gold_answer": 43}
+{"id": "q0067", "subset": "single_step", "question": "A printer at Yuki's office prints 42 pages per minute. How many pages does it print in 82 minutes?", "gold_answer": 3444}
+{"id": "q0068", "subset": "multi_step", "question": "Rosa buys 3 notebooks at $9 each and 12 pens at $4 each. She pays with $100. How much change does she get?", "gold_answer": 25}
+{"id": "q0069", "subset": "single_step", "question": "A school splits 936 students evenly into 18 buses. How many students ride on each bus?", "gold_answer": 52}
+{"id": "q0070", "subset": "single_step", "question": "A school splits 744 students evenly into 24 buses. How many students ride on each bus?", "gold_answer": 31}
+{"id": "q0071", "subset": "single_step", "question": "A warehouse has 4407 boxes. Grace ships 2955 of them. How many boxes are left?", "gold_answer": 1452}
+{"id": "q0072", "subset": "single_step", "question": "A school splits 301 students evenly into 7 buses. How many students ride on each bus?", "gold_answer": 43}
+{"id": "q0073", "subset": "multi_step", "question": "Yuki buys 8 notebooks at $9 each and 11 pens at $3 each. She pays with $200. How much change does she get?", "gold_answer": 95}
+{"id": "q0074", "subset": "single_step", "question": "Hana saves $270 each week. How much has she saved after 11 weeks?", "gold_answer": 1485}
+{"id": "q0075", "subset": "single_step", "question": "A warehouse has 5119 boxes. Grace ships 1290 of them. How many boxes are left?", "gold_answer": 3929}
+{"id": "q0076", "subset": "multi_step", "question": "Mei's cafe sells 137 coffees at $6 each and 107 teas at $4 each per day. What is its revenue over 5 days?", "gold_answer": 6250}
+{"id": "q0077", "subset": "multi_step", "question": "A tank at Amara's farm holds 475 liters. It is filled at 33 liters per minute but leaks 14 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 25}
+{"id": "q0078", "subset": "multi_step", "question": "Rosa's cafe sells 241 coffees at $6 each and 42 teas at $2 each per day. What is its revenue over 3 days?", "gold_answer": 4590}
+{"id": "q0079", "subset": "multi_step", "question": "A tank at Grace's farm holds 264 liters. It is filled at 23 liters per minute but leaks 11 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 22}
+{"id": "q0080", "subset": "single_step", "question": "A farm harvests 635 kg of rice in the morning and 2415 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 3050}
+{"id": "q0081", "subset": "single_step", "question": "A printer at Lucia's office prints 38 pages per minute. How many pages does it print in 202 minutes?", "gold_answer": 7676}
+{"id": "q0082", "subset": "multi_step", "question": "Elena buys 10 notebooks at $7 each and 8 pens at $1 each. She pays with $200. How much change does she get?", "gold_answer": 122}
+{"id": "q0083", "subset": "multi_step", "question": "A tank at Elena's farm holds 2387 liters. It is filled at 33 liters per minute but leaks 2 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 77}
+{"id": "q0084", "subset": "single_step", "question": "A school splits 1000 students evenly into 20 buses. How many students ride on each bus?", "gold_answer": 50}
+{"id": "q0085", "subset": "single_step", "question": "Fatima saves $66 each week. How much has she saved after 20 weeks?", "gold_answer": 1320}
+{"id": "q0086", "subset": "single_step", "question": "Lucia reads 19 pages every day. How many pages does she read in 43 days?", "gold_answer": 817}
+{"id": "q0087", "subset": "single_step", "question": "Ana reads 28 pages every day. How many pages does she read in 60 days?", "gold_answer": 1680}
+{"id": "q0088", "subset": "single_step", "question": "Priya reads 30 pages every day. How many pages does she read in 49 days?", "gold_answer": 1470}
+{"id": "q0089", "subset": "single_step", "question": "A printer at Fatima's office prints 86 pages per minute. How many pages does it print in 221 minutes?", "gold_answer": 19006}
+{"id": "q0090", "subset": "multi_step", "question": "Selin buys 6 notebooks at $5 each and 13 pens at $4 each. She pays with $100. How much change does she get?", "gold_answer": 18}
+{"id": "q0091", "subset": "single_step", "question": "A farm harvests 4642 kg of rice in the morning and 2560 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 7202}
+{"id": "q0092", "subset": "single_step", "question": "A farm harvests 922 kg of rice in the morning and 8722 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 9644}
+{"id": "q0093", "subset": "multi_step", "question": "A library has 3496 books. Amara orders 12 boxes of 40 books each for it, then the library donates 233 books. How many books does it have now?", "gold_answer": 3740}
+{"id": "q0094", "subset": "single_step", "question": "A farm harvests 8635 kg of rice in the morning and 2019 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 10654}
+{"id": "q0095", "subset": "single_step", "question": "Ana reads 36 pages every day. How many pages does she read in 55 days?", "gold_answer": 1980}
+{"id": "q0096", "subset": "single_step", "question": "Chioma reads 60 pages every day. How many pages does she read in 47 days?", "gold_answer": 2820}
+{"id": "q0097", "subset": "single_step", "question": "A warehouse has 11413 boxes. Ayesha ships 7964 of them. How many boxes are left?", "gold_answer": 3449}
+{"id": "q0098", "subset": "multi_step", "question": "A library has 4239 books. Ana orders 20 boxes of 31 books each for it, then the library donates 501 books. How many books does it have now?", "gold_answer": 4358}
+{"id": "q0099", "subset": "multi_step", "question": "A tank at Ivy's farm holds 800 liters. It is filled at 39 liters per minute but leaks 14 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 32}
+{"id": "q0100", "subset": "multi_step", "question": "A library has 7874 books. Yuki orders 19 boxes of 19 books each for it, then the library donates 321 books. How many books does it have now?", "gold_answer": 7914}
+{"id": "q0101", "subset": "single_step", "question": "Aisha saves $218 each week. How much has she saved after 20 weeks?", "gold_answer": 4360}
+{"id": "q0102", "subset": "multi_step", "question": "Fatima earns $50 per hour. She works 8 hours a day for 27 days and spends $2608. How much money does she have left?", "gold_answer": 8192}
+{"id": "q0103", "subset": "single_step", "question": "Grace reads 43 pages every day. How many pages does she read in 60 days?", "gold_answer": 2580}
+{"id": "q0104", "subset": "single_step", "question": "A printer at Elena's office prints 35 pages per minute. How many pages does it print in 173 minutes?", "gold_answer": 6055}
+{"id": "q0105", "subset": "single_step", "question": "Lucia reads 58 pages every day. How many pages does she read in 50 days?", "gold_answer": 2900}
+{"id": "q0106", "subset": "single_step", "question": "A school splits 189 students evenly into 9 buses. How many students ride on each bus?", "gold_answer": 21}
+{"id": "q0107", "subset": "multi_step", "question": "A tank at Ana's farm holds 2844 liters. It is filled at 48 liters per minute but leaks 12 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 79}
+{"id": "q0108", "subset": "multi_step", "question": "A tank at Priya's farm holds 2349 liters. It is filled at 37 liters per minute but leaks 8 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 81}
+{"id": "q0109", "subset": "multi_step", "question": "A library has 4656 books. Rosa orders 16 boxes of 24 books each for it, then the library donates 421 books. How many books does it have now?", "gold_answer": 4619}
+{"id": "q0110", "subset": "multi_step", "question": "Grace buys 10 notebooks at $6 each and 11 pens at $3 each. She pays with $100. How much change does she get?", "gold_answer": 7}
+{"id": "q0111", "subset": "multi_step", "question": "Grace's cafe sells 145 coffees at $4 each and 99 teas at $2 each per day. What is its revenue over 12 days?", "gold_answer": 9336}
+{"id": "q0112", "subset": "single_step", "question": "A farm harvests 7050 kg of rice in the morning and 6696 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 13760}
+{"id": "q0113", "subset": "single_step", "question": "A warehouse has 10181 boxes. Noor ships 831 of them. How many boxes are left?", "gold_answer": 9350}
+{"id": "q0114", "subset": "single_step", "question": "Hana saves $199 each week. How much has she saved after 16 weeks?", "gold_answer": 3184}
+{"id": "q0115", "subset": "single_step", "question": "A printer at Selin's office prints 83 pages per minute. How many pages does it print in 118 minutes?", "gold_answer": 9794}
+{"id": "q0116", "subset": "single_step", "question": "A warehouse has 8380 boxes. Ayesha ships 7081 of them. How many boxes are left?", "gold_answer": 1299}
+{"id": "q0117", "subset": "single_step", "question": "Ines reads 23 pages every day. How many pages does she read in 32 days?", "gold_answer": 736}
+{"id": "q0118", "subset": "single_step", "question": "A school splits 864 students evenly into 16 buses. How many students ride on each bus?", "gold_answer": 54}
+{"id": "q0119", "subset": "single_step", "question": "A printer at Noor's office prints 78 pages per minute. How many pages does it print in 177 minutes?", "gold_answer": 13806}
+{"id": "q0120", "subset": "multi_step", "question": "Grace earns $52 per hour. She works 9 hours a day for 9 days and spends $3313. How much money does she have left?", "gold_answer": 899}
+{"id": "q0121", "subset": "single_step", "question": "A farm harvests 7335 kg of rice in the morning and 8001 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 15336}
+{"id": "q0122", "subset": "multi_step", "question": "Grace runs 9 km on each weekday and 8 km on each weekend day. How many km does she run in 12 weeks?", "gold_answer": 732}
+{"id": "q0123", "subset": "multi_step", "question": "Priya buys 6 notebooks at $3 each and 14 pens at $2 each. She pays with $100. How much change does she get?", "gold_answer": 54}
+{"id": "q0124", "subset": "single_step", "question": "Rosa reads 25 pages every day. How many pages does she read in 81 days?", "gold_answer": 2025}
+{"id": "q0125", "subset": "multi_step", "question": "Zara runs 10 km on each weekday and 5 km on each weekend day. How many km does she run in 7 weeks?", "gold_answer": 420}
+{"id": "q0126", "subset": "single_step", "question": "Tara reads 58 pages every day. How many pages does she read in 34 days?", "gold_answer": 1972}
+{"id": "q0127", "subset": "multi_step", "question": "Chioma runs 5 km on each weekday and 21 km on each weekend day. How many km does she run in 5 weeks?", "gold_answer": 335}
+{"id": "q0128", "subset": "single_step", "question": "A school splits 360 students evenly into 18 buses. How many students ride on each bus?", "gold_answer": 20}
+{"id": "q0129", "subset": "single_step", "question": "A school splits 735 students evenly into 15 buses. How many students ride on each bus?", "gold_answer": 49}
+{"id": "q0130", "subset": "single_step", "question": "A printer at Zara's office prints 28 pages per minute. How many pages does it print in 18 minutes?", "gold_answer": 504}
+{"id": "q0131", "subset": "single_step", "question": "Maya saves $282 each week. How much has she saved after 46 weeks?", "gold_answer": 12972}
+{"id": "q0132", "subset": "multi_step", "question": "Sofia earns $45 per hour. She works 6 hours a day for 16 days and spends $792. How much money does she have left?", "gold_answer": 3528}
+{"id": "q0133", "subset": "single_step", "question": "A warehouse has 9933 boxes. Lucia ships 8915 of them. How many boxes are left?", "gold_answer": 1018}
+{"id": "q0134", "subset": "multi_step", "question": "Ines runs 12 km on each weekday and 20 km on each weekend day. How many km does she run in 6 weeks?", "gold_answer": 600}
+{"id": "q0135", "subset": "multi_step", "question": "Maya earns $41 per hour. She works 8 hours a day for 8 days and spends $1093. How much money does she have left?", "gold_answer": 1531}
+{"id": "q0136", "subset": "multi_step", "question": "Ivy runs 11 km on each weekday and 14 km on each weekend day. How many km does she run in 9 weeks?", "gold_answer": 747}
+{"id": "q0137", "subset": "multi_step", "question": "A library has 1449 books. Ana orders 20 boxes of 14 books each for it, then the library donates 325 books. How many books does it have now?", "gold_answer": 1404}
+{"id": "q0138", "subset": "multi_step", "question": "A library has 6664 books. Rosa orders 4 boxes of 21 books each for it, then the library donates 528 books. How many books does it have now?", "gold_answer": 6220}
+{"id": "q0139", "subset": "single_step", "question": "A farm harvests 5734 kg of rice in the morning and 5587 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 11321}
+{"id": "q0140", "subset": "multi_step", "question": "A library has 5432 books. Nadia orders 21 boxes of 27 books each for it, then the library donates 293 books. How many books does it have now?", "gold_answer": 5706}
+{"id": "q0141", "subset": "single_step", "question": "A printer at Zara's office prints 62 pages per minute. How many pages does it print in 228 minutes?", "gold_answer": 14136}
+{"id": "q0142", "subset": "single_step", "question": "A farm harvests 2826 kg of rice in the morning and 4365 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 7191}
+{"id": "q0143", "subset": "single_step", "question": "Mei reads 32 pages every day. How many pages does she read in 71 days?", "gold_answer": 2257}
+{"id": "q0144", "subset": "multi_step", "question": "A tank at Maya's farm holds 1140 liters. It is filled at 44 liters per minute but leaks 14 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 41}
+{"id": "q0145", "subset": "single_step", "question": "A warehouse has 11403 boxes. Chioma ships 1781 of them. How many boxes are left?", "gold_answer": 9622}
+{"id": "q0146", "subset": "single_step", "question": "A printer at Fatima's office prints 49 pages per minute. How many pages does it print in 20 minutes?", "gold_answer": 980}
+{"id": "q0147", "subset": "multi_step", "question": "Zara buys 4 notebooks at $2 each and 5 pens at $1 each. She pays with $100. How much change does she get?", "gold_answer": 87}
+{"id": "q0148", "subset": "multi_step", "question": "Leila buys 12 notebooks at $3 each and 11 pens at $2 each. She pays with $100. How much change does she get?", "gold_answer": 42}
+{"id": "q0149", "subset": "multi_step", "question": "Hana runs 3 km on each weekday and 16 km on each weekend day. How many km does she run in 5 weeks?", "gold_answer": 235}
+{"id": "q0150", "subset": "single_step", "question": "A farm harvests 3847 kg of rice in the morning and 2097 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 5944}
+{"id": "q0151", "subset": "multi_step", "question": "Maya runs 7 km on each weekday and 16 km on each weekend day. How many km does she run in 15 weeks?", "gold_answer": 1005}
+{"id": "q0152", "subset": "single_step", "question": "A school splits 1357 students evenly into 23 buses. How many students ride on each bus?", "gold_answer": 59}
+{"id": "q0153", "subset": "multi_step", "question": "Zara's cafe sells 290 coffees at $4 each and 103 teas at $3 each per day. What is its revenue over 9 days?", "gold_answer": 13221}
+{"id": "q0154", "subset": "multi_step", "question": "Yuki's cafe sells 171 coffees at $5 each and 27 teas at $2 each per day. What is its revenue over 11 days?", "gold_answer": 9999}
+{"id": "q0155", "subset": "multi_step", "question": "Nadia buys 11 notebooks at $2 each and 13 pens at $3 each. She pays with $200. How much change does she get?", "gold_answer": 139}
+{"id": "q0156", "subset": "single_step", "question": "A school splits 624 students evenly into 16 buses. How many students ride on each bus?", "gold_answer": 39}
+{"id": "q0157", "subset": "multi_step", "question": "Mei runs 12 km on each weekday and 20 km on each weekend day. How many km does she run in 11 weeks?", "gold_answer": 1100}
+{"id": "q0158", "subset": "multi_step", "question": "Grace runs 4 km on each weekday and 5 km on each weekend day. How many km does she run in 7 weeks?", "gold_answer": 210}
+{"id": "q0159", "subset": "multi_step", "question": "Grace's cafe sells 164 coffees at $4 each and 150 teas at $3 each per day. What is its revenue over 3 days?", "gold_answer": 3318}
+{"id": "q0160", "subset": "single_step", "question": "Elena saves $184 each week. How much has she saved after 13 weeks?", "gold_answer": 2392}
+{"id": "q0161", "subset": "multi_step", "question": "Maya runs 6 km on each weekday and 14 km on each weekend day. How many km does she run in 12 weeks?", "gold_answer": 696}
+{"id": "q0162", "subset": "single_step", "question": "Chioma saves $363 each week. How much has she saved after 20 weeks?", "gold_answer": 7260}
+{"id": "q0163", "subset": "single_step", "question": "A school splits 294 students evenly into 7 buses. How many students ride on each bus?", "gold_answer": 42}
+{"id": "q0164", "subset": "single_step", "question": "Priya reads 29 pages every day. How many pages does she read in 76 days?", "gold_answer": 2204}
+{"id": "q0165", "subset": "single_step", "question": "A warehouse has 5988 boxes. Noor ships 3849 of them. How many boxes are left?", "gold_answer": 2139}
+{"id": "q0166", "subset": "single_step", "question": "Ines reads 19 pages every day. How many pages does she read in 70 days?", "gold_answer": 1330}
+{"id": "q0167", "subset": "single_step", "question": "Rosa saves $230 each week. How much has she saved after 40 weeks?", "gold_answer": 9200}
+{"id": "q0168", "subset": "multi_step", "question": "Fatima buys 3 notebooks at $2 each and 12 pens at $4 each. She pays with $200. How much change does she get?", "gold_answer": 146}
+{"id": "q0169", "subset": "multi_step", "question": "A library has 2393 books. Ines orders 25 boxes of 26 books each for it, then the library donates 91 books. How many books does it have now?", "gold_answer": 2952}
+{"id": "q0170", "subset": "multi_step", "question": "A library has 6631 books. Ivy orders 13 boxes of 20 books each for it, then the library donates 405 books. How many books does it have now?", "gold_answer": 6486}
+{"id": "q0171", "subset": "single_step", "question": "A farm harvests 2390 kg of rice in the morning and 7366 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 9756}
+{"id": "q0172", "subset": "multi_step", "question": "Rosa earns $20 per hour. She works 4 hours a day for 5 days and spends $169. How much money does she have left?", "gold_answer": 231}
+{"id": "q0173", "subset": "single_step", "question": "Tara saves $60 each week. How much has she saved after 15 weeks?", "gold_answer": 900}
+{"id": "q0174", "subset": "single_step", "question": "A printer at Nadia's office prints 87 pages per minute. How many pages does it print in 70 minutes?", "gold_answer": 6090}
+{"id": "q0175", "subset": "multi_step", "question": "A tank at Selin's farm holds 816 liters. It is filled at 28 liters per minute but leaks 11 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 48}
+{"id": "q0176", "subset": "multi_step", "question": "Ana's cafe sells 132 coffees at $6 each and 37 teas at $3 each per day. What is its revenue over 11 days?", "gold_answer": 9933}
+{"id": "q0177", "subset": "single_step", "question": "A warehouse has 2737 boxes. Mei ships 252 of them. How many boxes are left?", "gold_answer": 2485}
+{"id": "q0178", "subset": "multi_step", "question": "A library has 4116 books. Chioma orders 5 boxes of 33 books each for it, then the library donates 71 books. How many books does it have now?", "gold_answer": 4210}
+{"id": "q0179", "subset": "multi_step", "question": "A tank at Ana's farm holds 3230 liters. It is filled at 51 liters per minute but leaks 13 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 85}
+{"id": "q0180", "subset": "single_step", "question": "A printer at Ines's office prints 58 pages per minute. How many pages does it print in 130 minutes?", "gold_answer": 7540}
+{"id": "q0181", "subset": "multi_step", "question": "Chioma runs 3 km on each weekday and 11 km on each weekend day. How many km does she run in 12 weeks?", "gold_answer": 444}
+{"id": "q0182", "subset": "single_step", "question": "A printer at Fatima's office prints 33 pages per minute. How many pages does it print in 98 minutes?", "gold_answer": 3234}
+{"id": "q0183", "subset": "single_step", "question": "Mei reads 52 pages every day. How many pages does she read in 65 days?", "gold_answer": 3380}
+{"id": "q0184", "subset": "multi_step", "question": "Maya's cafe sells 186 coffees at $5 each and 109 teas at $3 each per day. What is its revenue over 11 days?", "gold_answer": 13827}
+{"id": "q0185", "subset": "single_step", "question": "A printer at Mei's office prints 27 pages per minute. How many pages does it print in 209 minutes?", "gold_answer": 5643}
+{"id": "q0186", "subset": "single_step", "question": "A school splits 483 students evenly into 21 buses. How many students ride on each bus?", "gold_answer": 23}
+{"id": "q0187", "subset": "multi_step", "question": "Priya earns $30 per hour. She works 8 hours a day for 25 days and spends $457. How much money does she have left?", "gold_answer": 5543}
+{"id": "q0188", "subset": "multi_step", "question": "A tank at Elena's farm holds 344 liters. It is filled at 13 liters per minute but leaks 5 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 43}
+{"id": "q0189", "subset": "single_step", "question": "A school splits 840 students evenly into 20 buses. How many students ride on each bus?", "gold_answer": 42}
+{"id": "q0190", "subset": "multi_step", "question": "A library has 1318 books. Yuki orders 14 boxes of 22 books each for it, then the library donates 409 books. How many books does it have now?", "gold_answer": 1190}
+{"id": "q0191", "subset": "multi_step", "question": "A library has 2963 books. Elena orders 8 boxes of 25 books each for it, then the library donates 453 books. How many books does it have now?", "gold_answer": 2710}
+{"id": "q0192", "subset": "multi_step", "question": "Ines earns $39 per hour. She works 6 hours a day for 17 days and spends $1328. How much money does she have left?", "gold_answer": 2650}
+{"id": "q0193", "subset": "single_step", "question": "A school splits 564 students evenly into 12 buses. How many students ride on each bus?", "gold_answer": 47}
+{"id": "q0194", "subset": "single_step", "question": "A farm harvests 6039 kg of rice in the morning and 5460 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 11499}
+{"id": "q0195", "subset": "multi_step", "question": "Elena buys 12 notebooks at $9 each and 5 pens at $3 each. She pays with $200. How much change does she get?", "gold_answer": 77}
+{"id": "q0196", "subset": "single_step", "question": "A printer at Selin's office prints 85 pages per minute. How many pages does it print in 178 minutes?", "gold_answer": 15130}
+{"id": "q0197", "subset": "multi_step", "question": "Fatima earns $40 per hour. She works 7 hours a day for 8 days and spends $1835. How much money does she have left?", "gold_answer": 405}
+{"id": "q0198", "subset": "single_step", "question": "A printer at Zara's office prints 73 pages per minute. How many pages does it print in 159 minutes?", "gold_answer": 11607}
+{"id": "q0199", "subset": "single_step", "question": "Sofia saves $164 each week. How much has she saved after 22 weeks?", "gold_answer": 3608}
+{"id": "q0200", "subset": "multi_step", "question": "Selin's cafe sells 76 coffees at $3 each and 105 teas at $4 each per day. What is its revenue over 5 days?", "gold_answer": 3240}
+{"id": "q0201", "subset": "multi_step", "question": "Grace's cafe sells 126 coffees at $4 each and 33 teas at $2 each per day. What is its revenue over 5 days?", "gold_answer": 2850}
+{"id": "q0202", "subset": "multi_step", "question": "A tank at Rosa's farm holds 192 liters. It is filled at 18 liters per minute but leaks 10 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 24}
+{"id": "q0203", "subset": "multi_step", "question": "Leila's cafe sells 287 coffees at $3 each and 147 teas at $2 each per day. What is its revenue over 9 days?", "gold_answer": 10395}
+{"id": "q0204", "subset": "single_step", "question": "A school splits 156 students evenly into 4 buses. How many students ride on each bus?", "gold_answer": 39}
+{"id": "q0205", "subset": "single_step", "question": "A printer at Grace's office prints 24 pages per minute. How many pages does it print in 118 minutes?", "gold_answer": 2832}
+{"id": "q0206", "subset": "single_step", "question": "A school splits 1375 students evenly into 25 buses. How many students ride on each bus?", "gold_answer": 55}
+{"id": "q0207", "subset": "single_step", "question": "Nadia saves $249 each week. How much has she saved after 39 weeks?", "gold_answer": 9711}
+{"id": "q0208", "subset": "single_step", "question": "A warehouse has 3640 boxes. Nadia ships 285 of them. How many boxes are left?", "gold_answer": 3355}
+{"id": "q0209", "subset": "single_step", "question": "Ines saves $355 each week. How much has she saved after 41 weeks?", "gold_answer": 14555}
+{"id": "q0210", "subset": "single_step", "question": "Yuki reads 17 pages every day. How many pages does she read in 15 days?", "gold_answer": 127}
+{"id": "q0211", "subset": "multi_step", "question": "Yuki earns $22 per hour. She works 4 hours a day for 9 days and spends $716. How much money does she have left?", "gold_answer": 76}
+{"id": "q0212", "subset": "multi_step", "question": "Leila buys 2 notebooks at $4 each and 9 pens at $1 each. She pays with $100. How much change does she get?", "gold_answer": 83}
+{"id": "q0213", "subset": "single_step", "question": "Zara saves $246 each week. How much has she saved after 15 weeks?", "gold_answer": 3690}
+{"id": "q0214", "subset": "single_step", "question": "Mei saves $63 each week. How much has she saved after 47 weeks?", "gold_answer": 2961}
+{"id": "q0215", "subset": "multi_step", "question": "Maya buys 6 notebooks at $2 each and 5 pens at $2 each. She pays with $50. How much change does she get?", "gold_answer": 28}
+{"id": "q0216", "subset": "multi_step", "question": "A tank at Lucia's farm holds 2201 liters. It is filled at 40 liters per minute but leaks 9 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 71}
+{"id": "q0217", "subset": "single_step", "question": "A school splits 1260 students evenly into 30 buses. How many students ride on each bus?", "gold_answer": 42}
+{"id": "q0218", "subset": "multi_step", "question": "Ivy earns $29 per hour. She works 6 hours a day for 5 days and spends $314. How much money does she have left?", "gold_answer": 556}
+{"id": "q0219", "subset": "single_step", "question": "A warehouse has 14835 boxes. Selin ships 6838 of them. How many boxes are left?", "gold_answer": 7997}
+{"id": "q0220", "subset": "multi_step", "question": "A tank at Nadia's farm holds 792 liters. It is filled at 25 liters per minute but leaks 3 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 36}
+{"id": "q0221", "subset": "multi_step", "question": "A tank at Rosa's farm holds 1326 liters. It is filled at 50 liters per minute but leaks 11 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 34}
+{"id": "q0222", "subset": "single_step", "question": "A school splits 308 students evenly into 11 buses. How many students ride on each bus?", "gold_answer": 30}
+{"id": "q0223", "subset": "single_step", "question": "Chioma reads 20 pages every day. How many pages does she read in 27 days?", "gold_answer": 540}
+{"id": "q0224", "subset": "single_step", "question": "A school splits 408 students evenly into 12 buses. How many students ride on each bus?", "gold_answer": 34}
+{"id": "q0225", "subset": "single_step", "question": "A school splits 697 students evenly into 17 buses. How many students ride on each bus?", "gold_answer": 41}
+{"id": "q0226", "subset": "multi_step", "question": "A library has 1728 books. Ana orders 23 boxes of 31 books each for it, then the library donates 571 books. How many books does it have now?", "gold_answer": 1870}
+{"id": "q0227", "subset": "multi_step", "question": "A library has 2061 books. Priya orders 15 boxes of 12 books each for it, then the library donates 222 books. How many books does it have now?", "gold_answer": 2019}
+{"id": "q0228", "subset": "multi_step", "question": "A library has 6872 books. Rosa orders 9 boxes of 27 books each for it, then the library donates 61 books. How many books does it have now?", "gold_answer": 7054}
+{"id": "q0229", "subset": "single_step", "question": "A warehouse has 12340 boxes. Ivy ships 10641 of them. How many boxes are left?", "gold_answer": 1699}
+{"id": "q0230", "subset": "multi_step", "question": "Ayesha buys 9 notebooks at $2 each and 4 pens at $3 each. She pays with $50. How much change does she get?", "gold_answer": 20}
+{"id": "q0231", "subset": "multi_step", "question": "Mei earns $36 per hour. She works 10 hours a day for 25 days and spends $7586. How much money does she have left?", "gold_answer": 1414}
+{"id": "q0232", "subset": "single_step", "question": "Grace saves $343 each week. How much has she saved after 16 weeks?", "gold_answer": 5488}
+{"id": "q0233", "subset": "single_step", "question": "A printer at Yuki's office prints 78 pages per minute. How many pages does it print in 164 minutes?", "gold_answer": 12692}
+{"id": "q0234", "subset": "multi_step", "question": "Ivy earns $39 per hour. She works 5 hours a day for 10 days and spends $593. How much money does she have left?", "gold_answer": 1357}
+{"id": "q0235", "subset": "single_step", "question": "A printer at Amara's office prints 75 pages per minute. How many pages does it print in 239 minutes?", "gold_answer": 17925}
+{"id": "q0236", "subset": "single_step", "question": "Selin reads 52 pages every day. How many pages does she read in 8 days?", "gold_answer": 416}
+{"id": "q0237", "subset": "single_step", "question": "A farm harvests 8802 kg of rice in the morning and 4347 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 13149}
+{"id": "q0238", "subset": "multi_step", "question": "Lucia's cafe sells 106 coffees at $4 each and 141 teas at $4 each per day. What is its revenue over 5 days?", "gold_answer": 4940}
+{"id": "q0239", "subset": "multi_step", "question": "Zara earns $45 per hour. She works 7 hours a day for 14 days and spends $3486. How much money does she have left?", "gold_answer": 924}
+{"id": "q0240", "subset": "single_step", "question": "Lucia saves $203 each week. How much has she saved after 23 weeks?", "gold_answer": 4669}
+{"id": "q0241", "subset": "single_step", "question": "A warehouse has 13523 boxes. Elena ships 6997 of them. How many boxes are left?", "gold_answer": 6526}
+{"id": "q0242", "subset": "multi_step", "question": "Fatima's cafe sells 176 coffees at $4 each and 121 teas at $4 each per day. What is its revenue over 3 days?", "gold_answer": 3564}
+{"id": "q0243", "subset": "single_step", "question": "A warehouse has 11752 boxes. Zara ships 10510 of them. How many boxes are left?", "gold_answer": 1242}
+{"id": "q0244", "subset": "multi_step", "question": "Tara's cafe sells 252 coffees at $6 each and 143 teas at $3 each per day. What is its revenue over 3 days?", "gold_answer": 5823}
+{"id": "q0245", "subset": "single_step", "question": "A farm harvests 4786 kg of rice in the morning and 1849 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 6635}
+{"id": "q0246", "subset": "single_step", "question": "A warehouse has 12538 boxes. Rosa ships 5493 of them. How many boxes are left?", "gold_answer": 7045}
+{"id": "q0247", "subset": "multi_step", "question": "A library has 3054 books. Maya orders 14 boxes of 39 books each for it, then the library donates 127 books. How many books does it have now?", "gold_answer": 3473}
+{"id": "q0248", "subset": "multi_step", "question": "A tank at Aisha's farm holds 640 liters. It is filled at 25 liters per minute but leaks 15 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 64}
+{"id": "q0249", "subset": "single_step", "question": "A farm harvests 6823 kg of rice in the morning and 8895 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 15718}
+{"id": "q0250", "subset": "single_step", "question": "Lucia saves $15 each week. How much has she saved after 32 weeks?", "gold_answer": 480}
+{"id": "q0251", "subset": "single_step", "question": "A school splits 518 students evenly into 14 buses. How many students ride on each bus?", "gold_answer": 37}
+{"id": "q0252", "subset": "multi_step", "question": "Hana's cafe sells 275 coffees at $5 each and 110 teas at $3 each per day. What is its revenue over 5 days?", "gold_answer": 8525}
+{"id": "q0253", "subset": "single_step", "question": "Tara saves $47 each week. How much has she saved after 22 weeks?", "gold_answer": 1034}
+{"id": "q0254", "subset": "multi_step", "question": "A library has 4475 books. Ines orders 11 boxes of 30 books each for it, then the library donates 222 books. How many books does it have now?", "gold_answer": 4583}
+{"id": "q0255", "subset": "single_step", "question": "Yuki reads 58 pages every day. How many pages does she read in 30 days?", "gold_answer": 1740}
+{"id": "q0256", "subset": "multi_step", "question": "A tank at Mei's farm holds 1080 liters. It is filled at 30 liters per minute but leaks 3 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 40}
+{"id": "q0257", "subset": "multi_step", "question": "Ivy buys 12 notebooks at $5 each and 8 pens at $3 each. She pays with $200. How much change does she get?", "gold_answer": 116}
+{"id": "q0258", "subset": "multi_step", "question": "Sofia earns $39 per hour. She works 9 hours a day for 23 days and spends $1124. How much money does she have left?", "gold_answer": 6949}
+{"id": "q0259", "subset": "multi_step", "question": "Ayesha buys 6 notebooks at $6 each and 14 pens at $4 each. She pays with $100. How much change does she get?", "gold_answer": 8}
+{"id": "q0260", "subset": "single_step", "question": "A farm harvests 2771 kg of rice in the morning and 6838 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 9609}
+{"id": "q0261", "subset": "single_step", "question": "A printer at Ayesha's office prints 55 pages per minute. How many pages does it print in 157 minutes?", "gold_answer": 8635}
+{"id": "q0262", "subset": "multi_step", "question": "Noor runs 8 km on each weekday and 10 km on each weekend day. How many km does she run in 3 weeks?", "gold_answer": 180}
+{"id": "q0263", "subset": "multi_step", "question": "Rosa runs 7 km on each weekday and 18 km on each weekend day. How many km does she run in 5 weeks?", "gold_answer": 355}
+{"id": "q0264", "subset": "single_step", "question": "A farm harvests 5295 kg of rice in the morning and 3367 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 8662}
+{"id": "q0265", "subset": "single_step", "question": "A printer at Fatima's office prints 69 pages per minute. How many pages does it print in 63 minutes?", "gold_answer": 4347}
+{"id": "q0266", "subset": "multi_step", "question": "Sofia earns $60 per hour. She works 6 hours a day for 21 days and spends $4364. How much money does she have left?", "gold_answer": 3196}
+{"id": "q0267", "subset": "single_step", "question": "A warehouse has 10396 boxes. Leila ships 9184 of them. How many boxes are left?", "gold_answer": 1212}
+{"id": "q0268", "subset": "multi_step", "question": "Lucia earns $49 per hour. She works 10 hours a day for 28 days and spends $11907. How much money does she have left?", "gold_answer": 1813}
+{"id": "q0269", "subset": "single_step", "question": "A farm harvests 8342 kg of rice in the morning and 7526 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 15868}
+{"id": "q0270", "subset": "multi_step", "question": "Hana's cafe sells 207 coffees at $5 each and 29 teas at $4 each per day. What is its revenue over 10 days?", "gold_answer": 11510}
+{"id": "q0271", "subset": "single_step", "question": "A warehouse has 11123 boxes. Nadia ships 1841 of them. How many boxes are left?", "gold_answer": 9282}
+{"id": "q0272", "subset": "single_step", "question": "A farm harvests 6802 kg of rice in the morning and 4477 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 11279}
+{"id": "q0273", "subset": "multi_step", "question": "Grace buys 8 notebooks at $9 each and 12 pens at $1 each. She pays with $200. How much change does she get?", "gold_answer": 116}
+{"id": "q0274", "subset": "multi_step", "question": "Ayesha earns $34 per hour. She works 9 hours a day for 21 days and spends $5230. How much money does she have left?", "gold_answer": 1196}
+{"id": "q0275", "subset": "single_step", "question": "Leila reads 37 pages every day. How many pages does she read in 9 days?", "gold_answer": 333}
+{"id": "q0276", "subset": "single_step", "question": "A farm harvests 5082 kg of rice in the morning and 6137 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 11219}
+{"id": "q0277", "subset": "single_step", "question": "Tara reads 20 pages every day. How many pages does she read in 83 days?", "gold_answer": 1660}
+{"id": "q0278", "subset": "single_step", "question": "Ayesha saves $346 each week. How much has she saved after 45 weeks?", "gold_answer": 15570}
+{"id": "q0279", "subset": "single_step", "question": "A school splits 510 students evenly into 17 buses. How many students ride on each bus?", "gold_answer": 30}
+{"id": "q0280", "subset": "single_step", "question": "A school splits 810 students evenly into 15 buses. How many students ride on each bus?", "gold_answer": 54}
+{"id": "q0281", "subset": "multi_step", "question": "Aisha's cafe sells 212 coffees at $5 each and 51 teas at $4 each per day. What is its revenue over 8 days?", "gold_answer": 10112}
+{"id": "q0282", "subset": "multi_step", "question": "Zara buys 8 notebooks at $2 each and 7 pens at $2 each. She pays with $200. How much change does she get?", "gold_answer": 170}
+{"id": "q0283", "subset": "multi_step", "question": "A tank at Leila's farm holds 2816 liters. It is filled at 44 liters per minute but leaks 12 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 32}
+{"id": "q0284", "subset": "single_step", "question": "A school splits 1166 students evenly into 22 buses. How many students ride on each bus?", "gold_answer": 53}
+{"id": "q0285", "subset": "multi_step", "question": "A tank at Zara's farm holds 3520 liters. It is filled at 42 liters per minute but leaks 2 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 88}
+{"id": "q0286", "subset": "single_step", "question": "A school splits 329 students evenly into 7 buses. How many students ride on each bus?", "gold_answer": 47}
+{"id": "q0287", "subset": "single_step", "question": "A school splits 690 students evenly into 30 buses. How many students ride on each bus?", "gold_answer": 23}
+{"id": "q0288", "subset": "multi_step", "question": "Zara buys 10 notebooks at $8 each and 6 pens at $2 each. She pays with $100. How much change does she get?", "gold_answer": 8}
+{"id": "q0289", "subset": "multi_step", "question": "A library has 4474 books. Amara orders 8 boxes of 10 books each for it, then the library donates 323 books. How many books does it have now?", "gold_answer": 4231}
+{"id": "q0290", "subset": "single_step", "question": "A farm harvests 6143 kg of rice in the morning and 6466 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 12609}
+{"id": "q0291", "subset": "single_step", "question": "A printer at Chioma's office prints 83 pages per minute. How many pages does it print in 221 minutes?", "gold_answer": 18343}
+{"id": "q0292", "subset": "multi_step", "question": "Aisha runs 3 km on each weekday and 18 km on each weekend day. How many km does she run in 6 weeks?", "gold_answer": 306}
+{"id": "q0293", "subset": "single_step", "question": "A school splits 969 students evenly into 17 buses. How many students ride on each bus?", "gold_answer": 57}
+{"id": "q0294", "subset": "multi_step", "question": "Mei buys 8 notebooks at $5 each and 7 pens at $3 each. She pays with $100. How much change does she get?", "gold_answer": 39}
+{"id": "q0295", "subset": "multi_step", "question": "Mei buys 4 notebooks at $5 each and 12 pens at $4 each. She pays with $100. How much change does she get?", "gold_answer": 32}
+{"id": "q0296", "subset": "multi_step", "question": "Ivy's cafe sells 67 coffees at $5 each and 52 teas at $2 each per day. What is its revenue over 9 days?", "gold_answer": 3951}
+{"id": "q0297", "subset": "single_step", "question": "A farm harvests 5911 kg of rice in the morning and 3534 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 9445}
+{"id": "q0298", "subset": "multi_step", "question": "Zara's cafe sells 191 coffees at $3 each and 40 teas at $4 each per day. What is its revenue over 3 days?", "gold_answer": 2199}
+{"id": "q0299", "subset": "multi_step", "question": "Nadia runs 7 km on each weekday and 12 km on each weekend day. How many km does she run in 3 weeks?", "gold_answer": 177}
+{"id": "q0300", "subset": "multi_step", "question": "Ana's cafe sells 199 coffees at $4 each and 66 teas at $4 each per day. What is its revenue over 9 days?", "gold_answer": 9540}
+{"id": "q0301", "subset": "single_step", "question": "A warehouse has 5885 boxes. Zara ships 440 of them. How many boxes are left?", "gold_answer": 5445}
+{"id": "q0302", "subset": "single_step", "question": "A warehouse has 8490 boxes. Ivy ships 4212 of them. How many boxes are left?", "gold_answer": 4278}
+{"id": "q0303", "subset": "single_step", "question": "Mei saves $362 each week. How much has she saved after 35 weeks?", "gold_answer": 12670}
+{"id": "q0304", "subset": "multi_step", "question": "Selin buys 4 notebooks at $4 each and 14 pens at $1 each. She pays with $200. How much change does she get?", "gold_answer": 170}
+{"id": "q0305", "subset": "multi_step", "question": "Fatima runs 7 km on each weekday and 16 km on each weekend day. How many km does she run in 4 weeks?", "gold_answer": 268}
+{"id": "q0306", "subset": "multi_step", "question": "Tara runs 4 km on each weekday and 10 km on each weekend day. How many km does she run in 9 weeks?", "gold_answer": 360}
+{"id": "q0307", "subset": "single_step", "question": "Sofia saves $384 each week. How much has she saved after 37 weeks?", "gold_answer": 14208}
+{"id": "q0308", "subset": "single_step", "question": "Chioma saves $399 each week. How much has she saved after 42 weeks?", "gold_answer": 16758}
+{"id": "q0309", "subset": "multi_step", "question": "Aisha runs 8 km on each weekday and 10 km on each weekend day. How many km does she run in 14 weeks?", "gold_answer": 840}
+{"id": "q0310", "subset": "multi_step", "question": "Ivy buys 9 notebooks at $4 each and 11 pens at $4 each. She pays with $100. How much change does she get?", "gold_answer": 20}
+{"id": "q0311", "subset": "single_step", "question": "Chioma saves $344 each week. How much has she saved after 46 weeks?", "gold_answer": 15824}
+{"id": "q0312", "subset": "single_step", "question": "Mei reads 32 pages every day. How many pages does she read in 41 days?", "gold_answer": 1312}
+{"id": "q0313", "subset": "multi_step", "question": "A tank at Mei's farm holds 550 liters. It is filled at 24 liters per minute but leaks 14 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 55}
+{"id": "q0314", "subset": "multi_step", "question": "Priya earns $31 per hour. She works 5 hours a day for 21 days and spends $1591. How much money does she have left?", "gold_answer": 1664}
+{"id": "q0315", "subset": "multi_step", "question": "Grace earns $50 per hour. She works 7 hours a day for 26 days and spends $1844. How much money does she have left?", "gold_answer": 7256}
+{"id": "q0316", "subset": "single_step", "question": "Yuki reads 18 pages every day. How many pages does she read in 31 days?", "gold_answer": 558}
+{"id": "q0317", "subset": "single_step", "question": "A warehouse has 12307 boxes. Chioma ships 6790 of them. How many boxes are left?", "gold_answer": 5517}
+{"id": "q0318", "subset": "single_step", "question": "A school splits 637 students evenly into 13 buses. How many students ride on each bus?", "gold_answer": 49}
+{"id": "q0319", "subset": "multi_step", "question": "A library has 2241 books. Lucia orders 3 boxes of 29 books each for it, then the library donates 590 books. How many books does it have now?", "gold_answer": 1738}
+{"id": "q0320", "subset": "multi_step", "question": "Maya earns $54 per hour. She works 6 hours a day for 10 days and spends $515. How much money does she have left?", "gold_answer": 2725}
+{"id": "q0321", "subset": "single_step", "question": "Fatima saves $345 each week. How much has she saved after 49 weeks?", "gold_answer": 16905}
+{"id": "q0322", "subset": "single_step", "question": "A printer at Elena's office prints 20 pages per minute. How many pages does it print in 172 minutes?", "gold_answer": 3440}
+{"id": "q0323", "subset": "multi_step", "question": "Rosa runs 11 km on each weekday and 21 km on each weekend day. How many km does she run in 3 weeks?", "gold_answer": 291}
+{"id": "q0324", "subset": "multi_step", "question": "Noor runs 5 km on each weekday and 18 km on each weekend day. How many km does she run in 6 weeks?", "gold_answer": 366}
+{"id": "q0325", "subset": "single_step", "question": "A warehouse has 5628 boxes. Tara ships 4710 of them. How many boxes are left?", "gold_answer": 918}
+{"id": "q0326", "subset": "single_step", "question": "A farm harvests 8150 kg of rice in the morning and 1353 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 9503}
+{"id": "q0327", "subset": "multi_step", "question": "Rosa runs 7 km on each weekday and 9 km on each weekend day. How many km does she run in 7 weeks?", "gold_answer": 371}
+{"id": "q0328", "subset": "single_step", "question": "A printer at Zara's office prints 63 pages per minute. How many pages does it print in 177 minutes?", "gold_answer": 11151}
+{"id": "q0329", "subset": "single_step", "question": "A farm harvests 8146 kg of rice in the morning and 6885 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 13527}
+{"id": "q0330", "subset": "single_step", "question": "Hana reads 44 pages every day. How many pages does she read in 73 days?", "gold_answer": 3212}
+{"id": "q0331", "subset": "single_step", "question": "A warehouse has 7179 boxes. Mei ships 701 of them. How many boxes are left?", "gold_answer": 6478}
+{"id": "q0332", "subset": "single_step", "question": "A school splits 550 students evenly into 11 buses. How many students ride on each bus?", "gold_answer": 50}
+{"id": "q0333", "subset": "single_step", "question": "A warehouse has 7646 boxes. Hana ships 2261 of them. How many boxes are left?", "gold_answer": 5385}
+{"id": "q0334", "subset": "single_step", "question": "A printer at Sofia's office prints 72 pages per minute. How many pages does it print in 54 minutes?", "gold_answer": 3888}
+{"id": "q0335", "subset": "multi_step", "question": "A library has 3173 books. Grace orders 9 boxes of 23 books each for it, then the library donates 570 books. How many books does it have now?", "gold_answer": 2810}
+{"id": "q0336", "subset": "single_step", "question": "Zara reads 12 pages every day. How many pages does she read in 11 days?", "gold_answer": 132}
+{"id": "q0337", "subset": "single_step", "question": "A school splits 888 students evenly into 24 buses. How many students ride on each bus?", "gold_answer": 37}
+{"id": "q0338", "subset": "single_step", "question": "Mei reads 22 pages every day. How many pages does she read in 86 days?", "gold_answer": 1892}
+{"id": "q0339", "subset": "single_step", "question": "Fatima saves $315 each week. How much has she saved after 23 weeks?", "gold_answer": 7245}
+{"id": "q0340", "subset": "single_step", "question": "A warehouse has 14910 boxes. Ines ships 3392 of them. How many boxes are left?", "gold_answer": 11518}
+{"id": "q0341", "subset": "single_step", "question": "A farm harvests 7444 kg of rice in the morning and 3106 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 10550}
+{"id": "q0342", "subset": "single_step", "question": "A farm harvests 1660 kg of rice in the morning and 3557 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 5217}
+{"id": "q0343", "subset": "single_step", "question": "Sofia saves $181 each week. How much has she saved after 31 weeks?", "gold_answer": 5611}
+{"id": "q0344", "subset": "multi_step", "question": "Ana buys 2 notebooks at $4 each and 10 pens at $2 each. She pays with $100. How much change does she get?", "gold_answer": 72}
+{"id": "q0345", "subset": "single_step", "question": "A printer at Tara's office prints 36 pages per minute. How many pages does it print in 106 minutes?", "gold_answer": 3816}
+{"id": "q0346", "subset": "single_step", "question": "A printer at Ivy's office prints 28 pages per minute. How many pages does it print in 155 minutes?", "gold_answer": 4340}
+{"id": "q0347", "subset": "single_step", "question": "Elena reads 47 pages every day. How many pages does she read in 42 days?", "gold_answer": 1974}
+{"id": "q0348", "subset": "single_step", "question": "A printer at Maya's office prints 67 pages per minute. How many pages does it print in 108 minutes?", "gold_answer": 7236}
+{"id": "q0349", "subset": "multi_step", "question": "Priya's cafe sells 267 coffees at $5 each and 58 teas at $3 each per day. What is its revenue over 3 days?", "gold_answer": 4527}
+{"id": "q0350", "subset": "multi_step", "question": "A tank at Chioma's farm holds 736 liters. It is filled at 37 liters per minute but leaks 5 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 23}
+{"id": "q0351", "subset": "multi_step", "question": "A tank at Leila's farm holds 1680 liters. It is filled at 31 liters per minute but leaks 3 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 60}
+{"id": "q0352", "subset": "multi_step", "question": "Ayesha runs 11 km on each weekday and 19 km on each weekend day. How many km does she run in 3 weeks?", "gold_answer": 279}
+{"id": "q0353", "subset": "single_step", "question": "A school splits 704 students evenly into 22 buses. How many students ride on each bus?", "gold_answer": 32}
+{"id": "q0354", "subset": "multi_step", "question": "A tank at Noor's farm holds 1020 liters. It is filled at 29 liters per minute but leaks 9 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 51}
+{"id": "q0355", "subset": "single_step", "question": "A warehouse has 10229 boxes. Priya ships 3778 of them. How many boxes are left?", "gold_answer": 6451}
+{"id": "q0356", "subset": "multi_step", "question": "Elena earns $34 per hour. She works 7 hours a day for 17 days and spends $2592. How much money does she have left?", "gold_answer": 1454}
+{"id": "q0357", "subset": "single_step", "question": "A school splits 480 students evenly into 8 buses. How many students ride on each bus?", "gold_answer": 60}
+{"id": "q0358", "subset": "multi_step", "question": "Leila's cafe sells 165 coffees at $5 each and 65 teas at $3 each per day. What is its revenue over 11 days?", "gold_answer": 11220}
+{"id": "q0359", "subset": "single_step", "question": "Nadia saves $195 each week. How much has she saved after 5 weeks?", "gold_answer": 975}
+{"id": "q0360", "subset": "multi_step", "question": "Hana buys 6 notebooks at $3 each and 13 pens at $2 each. She pays with $200. How much change does she get?", "gold_answer": 156}
+{"id": "q0361", "subset": "multi_step", "question": "Elena earns $32 per hour. She works 7 hours a day for 30 days and spends $659. How much money does she have left?", "gold_answer": 6061}
+{"id": "q0362", "subset": "single_step", "question": "Rosa saves $346 each week. How much has she saved after 36 weeks?", "gold_answer": 12456}
+{"id": "q0363", "subset": "multi_step", "question": "A tank at Yuki's farm holds 729 liters. It is filled at 13 liters per minute but leaks 4 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 81}
+{"id": "q0364", "subset": "single_step", "question": "A farm harvests 3242 kg of rice in the morning and 5455 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 8697}
+{"id": "q0365", "subset": "single_step", "question": "A warehouse has 8462 boxes. Noor ships 2999 of them. How many boxes are left?", "gold_answer": 5463}
+{"id": "q0366", "subset": "single_step", "question": "Lucia reads 41 pages every day. How many pages does she read in 89 days?", "gold_answer": 3649}
+{"id": "q0367", "subset": "single_step", "question": "A warehouse has 7484 boxes. Ines ships 4565 of them. How many boxes are left?", "gold_answer": 2919}
+{"id": "q0368", "subset": "single_step", "question": "A printer at Rosa's office prints 38 pages per minute. How many pages does it print in 56 minutes?", "gold_answer": 2228}
+{"id": "q0369", "subset": "multi_step", "question": "Ayesha's cafe sells 86 coffees at $5 each and 145 teas at $3 each per day. What is its revenue over 8 days?", "gold_answer": 6920}
+{"id": "q0370", "subset": "multi_step", "question": "Ayesha's cafe sells 55 coffees at $4 each and 74 teas at $4 each per day. What is its revenue over 7 days?", "gold_answer": 3612}
+{"id": "q0371", "subset": "multi_step", "question": "Nadia's cafe sells 286 coffees at $3 each and 94 teas at $2 each per day. What is its revenue over 5 days?", "gold_answer": 5230}
+{"id": "q0372", "subset": "single_step", "question": "A school splits 1288 students evenly into 28 buses. How many students ride on each bus?", "gold_answer": 46}
+{"id": "q0373", "subset": "single_step", "question": "A warehouse has 14045 boxes. Lucia ships 8207 of them. How many boxes are left?", "gold_answer": 5838}
+{"id": "q0374", "subset": "single_step", "question": "A warehouse has 9069 boxes. Maya ships 4862 of them. How many boxes are left?", "gold_answer": 4207}
+{"id": "q0375", "subset": "multi_step", "question": "Aisha's cafe sells 231 coffees at $3 each and 41 teas at $2 each per day. What is its revenue over 4 days?", "gold_answer": 3100}
+{"id": "q0376", "subset": "single_step", "question": "Ines saves $314 each week. How much has she saved after 5 weeks?", "gold_answer": 1570}
+{"id": "q0377", "subset": "multi_step", "question": "Maya's cafe sells 191 coffees at $3 each and 46 teas at $2 each per day. What is its revenue over 10 days?", "gold_answer": 6650}
+{"id": "q0378", "subset": "multi_step", "question": "A library has 3409 books. Aisha orders 17 boxes of 26 books each for it, then the library donates 204 books. How many books does it have now?", "gold_answer": 3647}
+{"id": "q0379", "subset": "single_step", "question": "A farm harvests 7817 kg of rice in the morning and 4122 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 11939}
+{"id": "q0380", "subset": "single_step", "question": "Rosa saves $227 each week. How much has she saved after 9 weeks?", "gold_answer": 2043}
+{"id": "q0381", "subset": "single_step", "question": "A farm harvests 8662 kg of rice in the morning and 8099 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 16761}
+{"id": "q0382", "subset": "single_step", "question": "A farm harvests 4978 kg of rice in the morning and 6152 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 11130}
+{"id": "q0383", "subset": "multi_step", "question": "Maya earns $41 per hour. She works 9 hours a day for 12 days and spends $3377. How much money does she have left?", "gold_answer": 1051}
+{"id": "q0384", "subset": "multi_step", "question": "Zara earns $60 per hour. She works 7 hours a day for 11 days and spends $3110. How much money does she have left?", "gold_answer": 1510}
+{"id": "q0385", "subset": "single_step", "question": "A warehouse has 1738 boxes. Priya ships 297 of them. How many boxes are left?", "gold_answer": 1441}
+{"id": "q0386", "subset": "multi_step", "question": "A library has 1743 books. Mei orders 13 boxes of 31 books each for it, then the library donates 204 books. How many books does it have now?", "gold_answer": 1942}
+{"id": "q0387", "subset": "single_step", "question": "A warehouse has 11542 boxes. Fatima ships 9885 of them. How many boxes are left?", "gold_answer": 1657}
+{"id": "q0388", "subset": "multi_step", "question": "A tank at Lucia's farm holds 2706 liters. It is filled at 43 liters per minute but leaks 10 liters per minute. How many minutes does it take to fill from empty?", "gold_answer": 82}
+{"id": "q0389", "subset": "single_step", "question": "A school splits 160 students evenly into 8 buses. How many students ride on each bus?", "gold_answer": 20}
+{"id": "q0390", "subset": "multi_step", "question": "A library has 6079 books. Elena orders 8 boxes of 24 books each for it, then the library donates 243 books. How many books does it have now?", "gold_answer": 6028}
+{"id": "q0391", "subset": "multi_step", "question": "A library has 1845 books. Ivy orders 17 boxes of 24 books each for it, then the library donates 404 books. How many books does it have now?", "gold_answer": 1850}
+{"id": "q0392", "subset": "single_step", "question": "A printer at Maya's office prints 66 pages per minute. How many pages does it print in 217 minutes?", "gold_answer": 14322}
+{"id": "q0393", "subset": "multi_step", "question": "Lucia earns $12 per hour. She works 6 hours a day for 23 days and spends $1472. How much money does she have left?", "gold_answer": 184}
+{"id": "q0394", "subset": "single_step", "question": "A printer at Rosa's office prints 27 pages per minute. How many pages does it print in 199 minutes?", "gold_answer": 5373}
+{"id": "q0395", "subset": "single_step", "question": "Leila reads 33 pages every day. How many pages does she read in 77 days?", "gold_answer": 2541}
+{"id": "q0396", "subset": "single_step", "question": "Yuki saves $95 each week. How much has she saved after 26 weeks?", "gold_answer": 2470}
+{"id": "q0397", "subset": "single_step", "question": "A farm harvests 2944 kg of rice in the morning and 4573 kg in the afternoon. How many kg does it harvest in total?", "gold_answer": 7517}
+{"id": "q0398", "subset": "multi_step", "question": "Rosa runs 7 km on each weekday and 5 km on each weekend day. How many km does she run in 2 weeks?", "gold_answer": 90}
+{"id": "q0399", "subset": "single_step", "question": "Sofia saves $292 each week. How much has she saved after 5 weeks?", "gold_answer": 1460}
+{"id": "q0400", "subset": "single_step", "question": "A printer at Nadia's office prints 54 pages per minute. How many pages does it print in 142 minutes?", "gold_answer": 7668}

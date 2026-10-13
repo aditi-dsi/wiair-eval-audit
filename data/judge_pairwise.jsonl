@@ -1,0 +1,400 @@
+{"id": "q0001", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0002", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0003", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0004", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0005", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0006", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0007", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0008", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0009", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0010", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0011", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0012", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0013", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0014", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0015", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0016", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0017", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0018", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0019", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0020", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0021", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0022", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0023", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0024", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0025", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0026", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0027", "response_1_model": "A", "response_2_model": "B", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0028", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0029", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0030", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0031", "response_1_model": "A", "response_2_model": "B", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0032", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0033", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0034", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0035", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0036", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0037", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0038", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0039", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0040", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0041", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0042", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0043", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0044", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0045", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0046", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0047", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0048", "response_1_model": "A", "response_2_model": "B", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0049", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0050", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0051", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0052", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0053", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0054", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0055", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0056", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0057", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0058", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0059", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0060", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0061", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0062", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0063", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0064", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0065", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0066", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0067", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0068", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0069", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0070", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0071", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0072", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0073", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0074", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0075", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0076", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0077", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0078", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0079", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0080", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0081", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0082", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0083", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0084", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0085", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0086", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0087", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0088", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0089", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0090", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0091", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0092", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0093", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0094", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0095", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0096", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0097", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0098", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0099", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0100", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0101", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0102", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0103", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0104", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0105", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0106", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0107", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0108", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0109", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0110", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0111", "response_1_model": "A", "response_2_model": "B", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0112", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0113", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0114", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0115", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0116", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0117", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0118", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0119", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0120", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0121", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0122", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0123", "response_1_model": "A", "response_2_model": "B", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0124", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0125", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0126", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0127", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0128", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0129", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0130", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0131", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0132", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0133", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0134", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0135", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0136", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0137", "response_1_model": "A", "response_2_model": "B", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0138", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0139", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0140", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0141", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0142", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0143", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0144", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0145", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0146", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0147", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0148", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0149", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0150", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0151", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0152", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0153", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0154", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0155", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0156", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0157", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0158", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0159", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0160", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0161", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0162", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0163", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0164", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0165", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0166", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0167", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0168", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0169", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0170", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0171", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0172", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0173", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0174", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0175", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0176", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0177", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0178", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0179", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0180", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0181", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0182", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0183", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0184", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0185", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0186", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0187", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0188", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0189", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0190", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0191", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0192", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0193", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0194", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0195", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0196", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0197", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0198", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0199", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0200", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0201", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0202", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0203", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0204", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0205", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0206", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0207", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0208", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0209", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0210", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0211", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0212", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0213", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0214", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0215", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0216", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0217", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0218", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0219", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0220", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0221", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0222", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0223", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0224", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0225", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0226", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0227", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0228", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0229", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0230", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0231", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0232", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0233", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0234", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0235", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0236", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0237", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0238", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0239", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0240", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0241", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0242", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0243", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0244", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0245", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0246", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0247", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0248", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0249", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0250", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0251", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0252", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0253", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0254", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0255", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0256", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0257", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0258", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0259", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0260", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0261", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0262", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0263", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0264", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0265", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0266", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0267", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0268", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0269", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0270", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0271", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0272", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0273", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0274", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0275", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0276", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0277", "response_1_model": "A", "response_2_model": "B", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0278", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0279", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0280", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0281", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0282", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0283", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0284", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0285", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0286", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0287", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0288", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0289", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0290", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0291", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0292", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0293", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0294", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0295", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0296", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0297", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0298", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0299", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0300", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0301", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0302", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0303", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0304", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0305", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0306", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0307", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0308", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0309", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0310", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0311", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0312", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0313", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0314", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0315", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0316", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0317", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0318", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0319", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0320", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0321", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0322", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0323", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0324", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0325", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0326", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0327", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0328", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0329", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0330", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0331", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0332", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0333", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0334", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0335", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0336", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0337", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0338", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0339", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0340", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0341", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0342", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0343", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0344", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0345", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0346", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0347", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0348", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0349", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0350", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0351", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0352", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0353", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0354", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0355", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0356", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0357", "response_1_model": "A", "response_2_model": "B", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0358", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0359", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0360", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0361", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0362", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0363", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0364", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0365", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0366", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0367", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0368", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0369", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0370", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0371", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0372", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0373", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0374", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0375", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0376", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0377", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0378", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0379", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0380", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is more helpful overall."}
+{"id": "q0381", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0382", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0383", "response_1_model": "B", "response_2_model": "A", "verdict": "response_2", "rationale": "Response 2 is clearer and reaches the correct result."}
+{"id": "q0384", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0385", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0386", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0387", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0388", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0389", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0390", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0391", "response_1_model": "B", "response_2_model": "A", "verdict": "tie", "rationale": "Both responses are of similar quality."}
+{"id": "q0392", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0393", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 explains the calculation more directly."}
+{"id": "q0394", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0395", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0396", "response_1_model": "A", "response_2_model": "B", "verdict": "response_2", "rationale": "Response 2 explains the calculation more directly."}
+{"id": "q0397", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0398", "response_1_model": "B", "response_2_model": "A", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
+{"id": "q0399", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is more helpful overall."}
+{"id": "q0400", "response_1_model": "A", "response_2_model": "B", "verdict": "response_1", "rationale": "Response 1 is clearer and reaches the correct result."}
