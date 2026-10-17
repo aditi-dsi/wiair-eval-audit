@@ -1,6 +1,7 @@
 """Audit of the eval team's Model A vs Model B comparison."""
 import json
 import os
+import re
 from collections import Counter
 
 from eval.extract import extract_answer
@@ -109,7 +110,6 @@ def refusal_audit(questions, outputs):
 def judge_audit(questions, outputs):
     header("LLM judge")
     judge = load_jsonl("judge_pairwise.jsonl")
-    human = {r["id"]: r["human_preference"] for r in load_jsonl("human_preferences_sample.jsonl")}
     winner = {r["id"]: "tie" if r["verdict"] == "tie" else r[r["verdict"] + "_model"] for r in judge}
     first = {r["id"]: r["response_1_model"] for r in judge}
 
@@ -141,6 +141,31 @@ def judge_audit(questions, outputs):
             print(f"Both correct, A {style}, {shown_first} first ({len(ids)}): B win rate {c['B'] / (c['A'] + c['B']):.0%}")
 
 
+def contamination_audit(questions, outputs):
+    header("Overlap between B's fine-tune data and the test set")
+    ft = load_jsonl("model_b_finetune_sample.jsonl")
+    ft_answer = {r["prompt"]: extract_answer(r["completion"]) for r in ft}
+
+    leaked = {qid: q for qid, q in questions.items() if q["question"] in ft_answer}
+    clean = {qid: q for qid, q in questions.items() if qid not in leaked}
+    with_gold = sum(ft_answer[q["question"]] == q["gold_answer"] for q in leaked.values())
+    print(f"Test questions copied word for word (leaked) in the fine-tune sample: {len(leaked)} of {len(questions)}")
+    print(f"...and the fine-tune answer equals the test gold answer: {with_gold} of {len(leaked)}")
+
+    def template(text):
+        return re.sub(r"\d+", "N", re.sub(r"\b[A-Z][a-z]+\b", "NAME", text))
+
+    test_templates = {template(q["question"]) for q in questions.values()}
+    ft_templates = {template(r["prompt"]) for r in ft}
+    print(f"Test question templates also in the fine-tune sample: {len(test_templates & ft_templates)} of {len(test_templates)}")
+
+    print("\nAccuracy with fixed scoring:")
+    for label, qs in (("questions in fine-tune data", leaked), ("clean questions", clean)):
+        res = {m: score_model(outputs[m], qs) for m in MODELS}
+        gap = 100 * (res["B"]["accuracy"] - res["A"]["accuracy"])
+        print(f"{label:28s} ({len(qs):3d})  A {res['A']['accuracy']:.1%}  B {res['B']['accuracy']:.1%}  gap (B - A) {gap:+.1f}")
+
+
 def main():
     questions = {r["id"]: r for r in load_jsonl("test_questions.jsonl")}
     outputs = {
@@ -151,6 +176,7 @@ def main():
     extraction_audit(questions, outputs)
     refusal_audit(questions, outputs)
     judge_audit(questions, outputs)
+    contamination_audit(questions, outputs)
 
 
 if __name__ == "__main__":
