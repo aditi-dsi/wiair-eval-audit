@@ -17,4 +17,4 @@ B's win rate with both position orders weighted equally: 53.9% (team's original 
 
 ## Conclusion
 
-Exact-match gap (B - A): -1.0 points. This report does not make a ship decision, see FINDINGS.md for the full audit,
+Exact-match gap (B - A): -1.0 points. This report does not make a ship decision, see FINDINGS.md for the full audit.

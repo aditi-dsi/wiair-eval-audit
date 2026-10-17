@@ -52,7 +52,7 @@ def main():
         "## Conclusion",
         "",
         f"Exact-match gap (B - A): {100 * (res_b['accuracy'] - res_a['accuracy']):+.1f} points. "
-        "This report does not make a ship decision, see FINDINGS.md for the full audit,",
+        "This report does not make a ship decision, see FINDINGS.md for the full audit.",
         "",
     ]
 
