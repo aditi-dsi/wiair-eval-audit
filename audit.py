@@ -7,6 +7,7 @@ from collections import Counter
 from eval.extract import extract_answer
 from eval.judge import judge_win_rate, position_balanced_win_rate
 from eval.score import is_correct, score_model
+import run_eval
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(ROOT, "data")
@@ -177,6 +178,8 @@ def main():
     refusal_audit(questions, outputs)
     judge_audit(questions, outputs)
     contamination_audit(questions, outputs)
+    header("Corrected report (also written to results/report.md)")
+    run_eval.main()
 
 
 if __name__ == "__main__":

@@ -4,15 +4,17 @@ Benchmark: 400 arithmetic word problems (single-step and multi-step).
 
 ## Exact-match accuracy
 
-| Model | Accuracy | Scored | Unparseable |
-|---|---|---|---|
-| A | 61.3% | 400 | 0 |
-| B | 68.6% | 379 | 21 |
+Unparseable answers (no number given) are counted as wrong.
+
+| Model | Accuracy | Single-step | Multi-step | Unparseable |
+|---|---|---|---|---|
+| A | 75.5% | 77.3% | 73.3% | 0 |
+| B | 74.5% | 85.9% | 60.6% | 21 |
 
 ## LLM judge (pairwise)
 
-Judge prefers **B** in 64.1% of decided comparisons (A wins 130, B wins 232, ties 38).
+B's win rate with both position orders weighted equally: 53.9% (team's original reported: 64.1%).
 
 ## Conclusion
 
-B beats A by 7.4 points on exact match, and the judge independently prefers B. **Recommendation: ship Model B.**
+Exact-match gap (B - A): -1.0 points. This report does not make a ship decision, see FINDINGS.md for the full audit,

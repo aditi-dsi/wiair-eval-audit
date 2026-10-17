@@ -5,7 +5,7 @@ Usage:  python run_eval.py
 import json
 import os
 
-from eval.judge import judge_win_rate
+from eval.judge import judge_win_rate, position_balanced_win_rate
 from eval.score import score_model
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -26,6 +26,7 @@ def main():
     res_a = score_model(outs_a, questions)
     res_b = score_model(outs_b, questions)
     jw = judge_win_rate(judge, model="B")
+    pos = position_balanced_win_rate(judge, model="B")
 
     lines = [
         "# Model A vs Model B: evaluation report",
@@ -34,22 +35,27 @@ def main():
         "",
         "## Exact-match accuracy",
         "",
-        "| Model | Accuracy | Scored | Unparseable |",
-        "|---|---|---|---|",
-        f"| A | {res_a['accuracy']:.1%} | {res_a['n_scored']} | {res_a['n_unparseable']} |",
-        f"| B | {res_b['accuracy']:.1%} | {res_b['n_scored']} | {res_b['n_unparseable']} |",
+        "Unparseable answers (no number given) are counted as wrong.",
+        "",
+        "| Model | Accuracy | Single-step | Multi-step | Unparseable |",
+        "|---|---|---|---|---|",
+        f"| A | {res_a['accuracy']:.1%} | {res_a['per_subset']['single_step']:.1%} | "
+        f"{res_a['per_subset']['multi_step']:.1%} | {res_a['n_unparseable']} |",
+        f"| B | {res_b['accuracy']:.1%} | {res_b['per_subset']['single_step']:.1%} | "
+        f"{res_b['per_subset']['multi_step']:.1%} | {res_b['n_unparseable']} |",
         "",
         "## LLM judge (pairwise)",
         "",
-        f"Judge prefers **B** in {jw['win_rate']:.1%} of decided comparisons "
-        f"(A wins {jw['counts']['A']}, B wins {jw['counts']['B']}, ties {jw['counts']['tie']}).",
+        f"B's win rate with both position orders weighted equally: {pos['balanced']:.1%} "
+        f"(team's original reported: {jw['win_rate']:.1%}).",
         "",
         "## Conclusion",
         "",
-        f"B beats A by {100 * (res_b['accuracy'] - res_a['accuracy']):.1f} points on exact match, "
-        f"and the judge independently prefers B. **Recommendation: ship Model B.**",
+        f"Exact-match gap (B - A): {100 * (res_b['accuracy'] - res_a['accuracy']):+.1f} points. "
+        "This report does not make a ship decision, see FINDINGS.md for the full audit,",
         "",
     ]
+
     os.makedirs(os.path.join(ROOT, "results"), exist_ok=True)
     with open(os.path.join(ROOT, "results", "report.md"), "w") as f:
         f.write("\n".join(lines))
