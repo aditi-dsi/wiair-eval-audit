@@ -10,18 +10,19 @@ def is_correct(pred, gold) -> bool:
     return abs(pred - float(gold)) < TOLERANCE
 
 
-def score_model(outputs: dict, questions: dict) -> dict:
+def score_model(outputs: dict, questions: dict, extract_method: str = "final") -> dict:
     """Score one model.
 
     outputs:   {id: response_text}
     questions: {id: {"gold_answer": ..., "subset": ...}}
+    extract_method: passed to extract_answer ("first_number" reproduces the original report)
     """
     correct, total = 0, 0
     per_subset = defaultdict(lambda: [0, 0])
     n_unparseable = 0
 
     for qid, q in questions.items():
-        pred = extract_answer(outputs.get(qid, ""))
+        pred = extract_answer(outputs.get(qid, ""), method=extract_method)
         if pred is None:
             # Unparseable outputs are formatting noise, not reasoning errors; skip them so
             # they don't distort the accuracy number.
