@@ -39,7 +39,7 @@ def response_style(text):
 
 def baseline(questions, outputs):
     header("Baseline: reproduce the eval team's numbers")
-    res = {m: score_model(outputs[m], questions, extract_method="first_number") for m in MODELS}
+    res = {m: score_model(outputs[m], questions, extract_method="first_number", unparseable="drop") for m in MODELS}
     for m in MODELS:
         r = res[m]
         print(f"{m}: accuracy {r['accuracy']:.1%}  scored {r['n_scored']}  unparseable {r['n_unparseable']}")
@@ -80,9 +80,29 @@ def extraction_audit(questions, outputs):
 
     print("\nAccuracy by extraction rule (unparseable still dropped):")
     for method in ("first_number", "last_number", "final"):
-        res = {m: score_model(outputs[m], questions, extract_method=method) for m in MODELS}
+        res = {m: score_model(outputs[m], questions, extract_method=method, unparseable="drop") for m in MODELS}
         gap = 100 * (res["B"]["accuracy"] - res["A"]["accuracy"])
         print(f"   {method:12s}  A {res['A']['accuracy']:.1%}  B {res['B']['accuracy']:.1%}  gap (B - A) {gap:+.1f}")
+
+def refusal_audit(questions, outputs):
+    header("Unparseable answers (refusals)")
+
+    refused = [qid for qid in questions if extract_answer(outputs["B"][qid]) is None]
+    print(f"B gave no answer on {len(refused)} of {len(questions)} questions")
+    print("By subset:", dict(Counter(questions[qid]["subset"] for qid in refused)))
+    print("Texts:", dict(Counter(outputs["B"][qid] for qid in refused)))
+    a_right = sum(is_correct(extract_answer(outputs["A"][qid]), questions[qid]["gold_answer"]) for qid in refused)
+    print(f"A answered the same questions correctly: {a_right} of {len(refused)}")
+    ft = load_jsonl("model_b_finetune_sample.jsonl")
+    print("Fine-tune completions that are not 'The answer is N':",
+          sum(not r["completion"].startswith("The answer is") for r in ft), "of", len(ft))
+
+    print("\nAccuracy with fixed extraction:")
+    for label, qs, policy in [("refusals dropped (team's way)", questions, "drop"),
+                              ("refusals counted as wrong", questions, "wrong")]:
+        res = {m: score_model(outputs[m], qs, unparseable=policy) for m in MODELS}
+        gap = 100 * (res["B"]["accuracy"] - res["A"]["accuracy"])
+        print(f"{label:38s} A {res['A']['accuracy']:.1%}  B {res['B']['accuracy']:.1%}  gap (B - A) {gap:+.1f}")
 
 
 def main():
@@ -93,6 +113,7 @@ def main():
     }
     baseline(questions, outputs)
     extraction_audit(questions, outputs)
+    refusal_audit(questions, outputs)
 
 
 if __name__ == "__main__":
