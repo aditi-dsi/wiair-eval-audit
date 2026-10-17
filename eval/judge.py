@@ -20,3 +20,12 @@ def judge_win_rate(judge_rows: list, model: str = "B") -> dict:
         "win_rate": wins[model] / decided if decided else 0.0,
         "counts": wins,
     }
+
+
+def position_balanced_win_rate(judge_rows: list, model: str = "B") -> dict:
+    """Win rate with `model` positioned first, positioned second, and the average of the two.
+    The average removes the effect of position when the two orders are not shown equally often.
+    """
+    first = judge_win_rate([r for r in judge_rows if r["response_1_model"] == model], model)["win_rate"]
+    second = judge_win_rate([r for r in judge_rows if r["response_2_model"] == model], model)["win_rate"]
+    return {"shown_first": first, "shown_second": second, "balanced": (first + second) / 2}

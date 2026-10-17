@@ -4,6 +4,7 @@ import os
 from collections import Counter
 
 from eval.extract import extract_answer
+from eval.judge import judge_win_rate, position_balanced_win_rate
 from eval.score import is_correct, score_model
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -105,6 +106,41 @@ def refusal_audit(questions, outputs):
         print(f"{label:38s} A {res['A']['accuracy']:.1%}  B {res['B']['accuracy']:.1%}  gap (B - A) {gap:+.1f}")
 
 
+def judge_audit(questions, outputs):
+    header("LLM judge")
+    judge = load_jsonl("judge_pairwise.jsonl")
+    human = {r["id"]: r["human_preference"] for r in load_jsonl("human_preferences_sample.jsonl")}
+    winner = {r["id"]: "tie" if r["verdict"] == "tie" else r[r["verdict"] + "_model"] for r in judge}
+    first = {r["id"]: r["response_1_model"] for r in judge}
+
+    def right(m, qid):
+        pred = extract_answer(outputs[m][qid])
+        return pred is not None and is_correct(pred, questions[qid]["gold_answer"])
+
+    pos_a = position_balanced_win_rate(judge, model="A")
+    print(f"A win rate when shown first {pos_a['shown_first']:.1%}, when shown second {pos_a['shown_second']:.1%}")
+    pos = position_balanced_win_rate(judge)
+    print(f"B win rate when shown first {pos['shown_first']:.1%}, when shown second {pos['shown_second']:.1%}")
+    print(f"B shown as Response 1 in {sum(m == 'B' for m in first.values())} of {len(judge)} comparisons")
+    print("Verdicts:", dict(Counter(r["verdict"] for r in judge)))
+    print(f"B win rate: team's way {judge_win_rate(judge)['win_rate']:.1%}, position-balanced {pos['balanced']:.1%}")
+
+    print()
+    for m, other in (("A", "B"), ("B", "A")):
+        ids = [qid for qid in questions if right(m, qid) and not right(other, qid)]
+        print(f"Only {m} correct ({len(ids)}): judge picked {dict(Counter(winner[qid] for qid in ids))}")
+    refused = [qid for qid in questions if extract_answer(outputs["B"][qid]) is None]
+    print(f"B refused ({len(refused)}): judge picked {dict(Counter(winner[qid] for qid in refused))}")
+
+    print()
+    for style in ("bold_first", "step_by_step"):
+        for shown_first in MODELS:
+            ids = [qid for qid in questions if right("A", qid) and right("B", qid)
+                   and response_style(outputs["A"][qid]) == style and first[qid] == shown_first]
+            c = Counter(winner[qid] for qid in ids)
+            print(f"Both correct, A {style}, {shown_first} first ({len(ids)}): B win rate {c['B'] / (c['A'] + c['B']):.0%}")
+
+
 def main():
     questions = {r["id"]: r for r in load_jsonl("test_questions.jsonl")}
     outputs = {
@@ -114,6 +150,7 @@ def main():
     baseline(questions, outputs)
     extraction_audit(questions, outputs)
     refusal_audit(questions, outputs)
+    judge_audit(questions, outputs)
 
 
 if __name__ == "__main__":
